@@ -1,6 +1,6 @@
 # Security-Dada
 
-A SImple Signup & Login Program created with PySimpleGUI.
+A Simple Signup & Login Program created with PySimpleGUI.
 
 * It Can protect your data on Basic Level.
 * Smart Sense - If you left half setup Process then it next time start from there where you were leaved it..
